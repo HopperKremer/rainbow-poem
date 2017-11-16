@@ -1,0 +1,4 @@
+red
+blue
+orange
+colors of rainbow
